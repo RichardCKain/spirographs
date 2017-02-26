@@ -4,7 +4,7 @@ A python program that simulates a Sprirograph.
 Author: Mahesh Venkitachalam
 Website: electronut.in
 
-
+Some edits from Richard Kain to change the number of Spiros, center them and give users instructions in the title.
 
 """
 
